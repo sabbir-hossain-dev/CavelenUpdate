@@ -7,6 +7,7 @@ import Projects from "@/sections/Projects";
 import Experience from "@/sections/Experience";
 import Certifications from "@/sections/Certifications";
 import Contact from "@/sections/Contact";
+import Footer from "@/components/Footer";
 
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
       <Experience />
       <Certifications />
       <Contact />
+      <Footer />
     </main>
   );
 }
