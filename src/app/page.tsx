@@ -1,6 +1,7 @@
 import Hero from "@/sections/Hero";
 import About from "@/sections/About";
 import LearningJourney from "@/sections/LearningJourney";
+import Education from "@/sections/Education";
 import Skills from "@/sections/Skills";
 import Projects from "@/sections/Projects";
 import Experience from "@/sections/Experience";
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero />
       <About />
       <LearningJourney />
+      <Education />
       <Skills />
       <Projects />
       <Experience />
