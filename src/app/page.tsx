@@ -5,6 +5,7 @@ import Education from "@/sections/Education";
 import Skills from "@/sections/Skills";
 import Projects from "@/sections/Projects";
 import Experience from "@/sections/Experience";
+import Certifications from "@/sections/Certifications";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <Skills />
       <Projects />
       <Experience />
+      <Certifications />
     </main>
   );
 }
